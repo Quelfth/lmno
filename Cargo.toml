@@ -3,4 +3,8 @@ name = "lmno"
 version = "0.1.0"
 edition = "2024"
 
+description = "human readable configuration format mostly isomorphic to json"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Quelfth/lmno"
+
 [dependencies]
